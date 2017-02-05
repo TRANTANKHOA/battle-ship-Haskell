@@ -6,5 +6,7 @@ Follow the instructions [here](https://docs.haskellstack.org/en/stable/README/)
 
 # Run
 stack setup
+
 stack build
+
 stack test
